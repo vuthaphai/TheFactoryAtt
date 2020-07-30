@@ -1,0 +1,1 @@
+update TblUser set DataTrueFalse=1;

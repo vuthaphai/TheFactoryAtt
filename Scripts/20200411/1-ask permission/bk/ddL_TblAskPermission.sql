@@ -1,0 +1,2 @@
+ALTER TABLE TblAskPermission
+   ALTER COLUMN EmpID BigInt
